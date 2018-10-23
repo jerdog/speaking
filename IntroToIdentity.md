@@ -1,0 +1,2 @@
+## Introduction to Identity and Its Uses in Modern Apps
+Digital identity is at the core of any application - invisible yet crucial. We often take identity for granted as most of its magic happens behind the scenes. But identity plays a much larger role beyond the login screen for your applications. In this talk we'll explore what identity looks like and the importance of getting it right the first time.
