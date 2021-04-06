@@ -12,5 +12,5 @@ Jeremy is the Head of DevRel & Community at CircleCI, formerly at Solace, Auth0 
 [Broaden your Community and Developer Relations reach through collaboration](https://github.com/jerdog/speaking/blob/master/broaden-community-and-devrel-reach.md)  
 [IGNITE: DevOps before there was DevOps, 20yr old style](https://github.com/jerdog/speaking/blob/master/devops-before-devops.md)  
 [Demystifying CI/CD](https://github.com/jerdog/speaking/blob/master/demystifying-cicd.md)  
-[What a global pandemic can tell you about better DevOps practices](https://github.com/jerdog/speaking/blob/master/global-pandemic-devops-practices.md)
+[What a global pandemic can tell you about better DevOps practices](https://github.com/jerdog/speaking/blob/master/global-pandemic-devops-practices.md)  
 [Mentorship, or How to rebuild civilization from scratch](https://github.com/jerdog/speaking/blob/master/mentorship_or_rebuild_civilization.md)
