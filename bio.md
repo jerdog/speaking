@@ -1,5 +1,6 @@
 ## Jeremy Meiss
 ### DevRel/Community freak, Herder of Cats
-![Headshot 400x400](https://github.com/jerdog/speaking/blob/master/headshots/new_headshot_bw_400x400.jpg)
+Jeremy is the Director of DevRel & Community at CircleCI, formerly at Solace, Auth0, and XDA. He is active in the DevRel Community, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he is also house-broken, and (generally) plays well with others.  
 
-Jeremy is the Head of DevRel & Community at CircleCI, formerly at Solace, Auth0, and XDA. He is a lover of all things coffee, community, open source, and tech. He is also house-broken, and (generally) plays well with others.
+
+![Headshot](https://github.com/jerdog/speaking/blob/master/headshots/another_blue.jpg)
